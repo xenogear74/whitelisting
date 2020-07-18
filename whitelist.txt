@@ -272,4 +272,5 @@ clickserve.dartsearch.net
 shareasale-analytics.com
 www.kqzyfj.com
 aax-us-iad.amazon.com
-Aan.amazon.com
+aan.amazon.com
+mads.amazon.com
